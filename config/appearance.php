@@ -36,34 +36,34 @@ return [
 	'default-colors'       => $genesis_sample_default_colors,
 	'editor-color-palette' => [
 		[
-			'name'  => __( 'Custom color', 'genesis-sample' ), // Called “Link Color” in the Customizer options. Renamed because “Link Color” implies it can only be used for links.
+			'name'  => __( 'Custom color', 'spence-minimal' ), // Called “Link Color” in the Customizer options. Renamed because “Link Color” implies it can only be used for links.
 			'slug'  => 'theme-primary',
 			'color' => $genesis_sample_link_color,
 		],
 		[
-			'name'  => __( 'Accent color', 'genesis-sample' ),
+			'name'  => __( 'Accent color', 'spence-minimal' ),
 			'slug'  => 'theme-secondary',
 			'color' => $genesis_sample_accent_color,
 		],
 	],
 	'editor-font-sizes'    => [
 		[
-			'name' => __( 'Small', 'genesis-sample' ),
+			'name' => __( 'Small', 'spence-minimal' ),
 			'size' => 12,
 			'slug' => 'small',
 		],
 		[
-			'name' => __( 'Normal', 'genesis-sample' ),
+			'name' => __( 'Normal', 'spence-minimal' ),
 			'size' => 18,
 			'slug' => 'normal',
 		],
 		[
-			'name' => __( 'Large', 'genesis-sample' ),
+			'name' => __( 'Large', 'spence-minimal' ),
 			'size' => 20,
 			'slug' => 'large',
 		],
 		[
-			'name' => __( 'Larger', 'genesis-sample' ),
+			'name' => __( 'Larger', 'spence-minimal' ),
 			'size' => 24,
 			'slug' => 'larger',
 		],

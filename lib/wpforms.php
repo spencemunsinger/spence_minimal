@@ -52,7 +52,7 @@ function studiopress_maybe_create_wpforms_form() { // phpcs:ignore -- studiopres
 
 	// Creates a form using the WPForms 'simple-contact-form-template' template.
 	$new_form_id = wpforms()->form->add(
-		esc_html__( 'Simple Contact Form', 'genesis-sample' ),
+		esc_html__( 'Simple Contact Form', 'spence-minimal' ),
 		[],
 		[
 			'template' => 'simple-contact-form-template',

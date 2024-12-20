@@ -16,12 +16,12 @@
 return [
 	'plugins'          => [
 		[
-			'name'       => __( 'Genesis Blocks', 'genesis-sample' ),
+			'name'       => __( 'Genesis Blocks', 'spence-minimal' ),
 			'slug'       => 'genesis-blocks/genesis-blocks.php',
 			'public_url' => 'https://wordpress.org/plugins/genesis-blocks/',
 		],
 		[
-			'name'       => __( 'WPForms Lite (Third Party)', 'genesis-sample' ),
+			'name'       => __( 'WPForms Lite (Third Party)', 'spence-minimal' ),
 			'slug'       => 'wpforms-lite/wpforms.php',
 			'public_url' => 'https://wordpress.org/plugins/wpforms-lite/',
 		],
