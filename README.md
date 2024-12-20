@@ -1,1 +1,0 @@
-# spence_minimal
